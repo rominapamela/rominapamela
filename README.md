@@ -26,8 +26,7 @@
 
 ### Sigamos en contacto 📲
 
-- LinkedIn: [https://www.linkedin.com/in/vic-coronado/](https://www.linkedin.com/in/vic-coronado/)
-- E-mail: vcoronadoasm@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/romina-pamela-velazquez/](https://www.linkedin.com/in/romina-pamela-velazquez/)
 
 <div align="center">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
