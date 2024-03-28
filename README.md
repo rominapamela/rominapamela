@@ -5,11 +5,12 @@
 </p>
 
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning more about java and Python
+- 🌱 I’m currently learning NodeJs and ReactJs
 - 📫 My email is rominapamelavelazquez@gmail
-- ❤ Fan de **documentar** & del **clean code**
+- ❤ Passion for **clean code** and **Clean Architecture**
+- Knowledge of design patterns and good programming practices with SOLID principles
 
-### Con qué tecnologías trabajo 
+### My techStack 
 
 <div align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -23,7 +24,7 @@
 </div>
 
 
-### Sigamos en contacto 📲
+### Follow me 📲
 
 - LinkedIn: [https://www.linkedin.com/in/romina-pamela-velazquez/](https://www.linkedin.com/in/romina-pamela-velazquez/)
 
