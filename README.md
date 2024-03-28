@@ -1,13 +1,12 @@
 
-<h1 align="center">Hola , Soy Romina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Romina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Developer;Data+Science+Student&center=true&width=500&height=50"></a>
 </p>
 
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning NodeJs and ReactJs
-- 📫 My email is rominapamelavelazquez@gmail
-- ❤ Passion for **clean code** and **Clean Architecture**
+- I program with Java and Springboot Framework since 2020
+- I’m currently learning NodeJs and ReactJs
+- Passion for **clean code** and **Clean Architecture**
 - Knowledge of design patterns and good programming practices with SOLID principles
 
 ### My techStack 
@@ -23,6 +22,8 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
+### Contact me ✉
+- My email is rominapamelavelazquez@gmail
 
 ### Follow me 📲
 
